@@ -1,11 +1,6 @@
 test.php
 var/cache/*
 var/sessions/*
-var/cache/mage--0/mage---internal-metadatas---d70_DB_PDO_MYSQL_DDL_log_visitor_info_1
-
-var/cache/mage--0/mage---internal-metadatas---d70_Zend_LocaleC_en_US_nametocurrency_
-
-var/cache/mage--1/mage---internal-metadatas---d70_Zend_LocaleC_en_US_currencynumber_
-
-var/cache/mage--0/mage---internal-metadatas---d70_Zend_LocaleC_en_US_nametocurrency_
+*/cache/*
+*/sessions/*
 
